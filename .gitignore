@@ -1,0 +1,6 @@
+__debug*
+.vscode
+wmbusmeters.log
+logs_backup
+meter_readings
+seeks
